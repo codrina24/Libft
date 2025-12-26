@@ -5,8 +5,8 @@ Libft - my first C library
 
 ## Description
 
-Libft is a project designed to implement various standard C functions and provide additional utilities. 
-These functions serve as a solid foundation for learning to build programs in C and will be used in subsequent Common Core projects. 
+Libft is a project designed to implement various standard C functions and take the first steps in learning C and its core concepts. 
+These functions provide a solid foundation for building programs and will be used in subsequent Common Core projects.
 
 The project covers:
 
@@ -18,7 +18,7 @@ The project covers:
 ## Instructions
 
 This project includes a Makefile to compile the `Libft` library.
-Bash command : make.
+To build it, simply run the following command in your terminal: make.
 
 ## Resources
 
