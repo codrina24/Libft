@@ -5,8 +5,8 @@ Libft - my first C library
 
 ## Description
 
-Libft is a C library that replicates a set of standard C functions and adds some additional utilities.  
-It includes a set of functions that form the foundation for learning how to implement various programs in C, and they will be used to create the projects in the following stages of the Common Core.  
+Libft is a project designed to implement various standard C functions and provide additional utilities. 
+These functions serve as a solid foundation for learning to build programs in C and will be used in subsequent Common Core projects. 
 
 The project covers:
 
