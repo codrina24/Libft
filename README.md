@@ -18,7 +18,7 @@ The project covers:
 ## Instructions
 
 This project includes a Makefile to compile the `Libft` library.
-To build it, simply run the following command in your terminal: make.
+To build it, simply run the following command in your terminal: `make`.
 
 ## Resources
 
@@ -33,7 +33,7 @@ AI tools were used to help:
 - Create diagrams and schemas to visualize how functions work and how data flows.
 - Provide examples of how to apply these concepts in practice.
 
-No AI was used to write the functions directly; all code logic and implementation are my personal work.
+No AI was used to write the functions directly; all code logic and implementation are my own work and personal vision.
 
 ## Library Functions Overview
 
