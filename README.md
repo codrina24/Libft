@@ -30,6 +30,22 @@ To compile the library, run:
 ```bash
 make
 ```
+
+## Library Functions Overview
+
+### Basic Functions (Character and Memory)
+- ft_isalpha, ft_isdigit, ft_isalnum, ft_isascii, ft_isprint, ft_strlen, ft_memset, ft_bzero, ft_memcpy, ft_memmove, ft_strlcpy, ft_strlcat, ft_toupper, ft_tolower, ft_strchr, ft_strrchr, ft_strncmp, ft_memchr, ft_memcmp, ft_strnstr, ft_atoi
+
+### Memory Management
+- ft_calloc, ft_strdup
+
+### String Manipulation
+- ft_substr, ft_strjoin, ft_strtrim, ft_split, ft_itoa, ft_strmapi, ft_striteri
+
+### Linked List (Bonus)
+- ft_lstnew, ft_lstadd_front, ft_lstsize, ft_lstlast, ft_lstadd_back, ft_lstdelone, ft_lstclear, ft_lstiter, ft_lstmap
+
+
 ## Resources
 
 - **Peer-to-peer learning** – was the most valuable resource; this project was developed with guidance and collaboration from other 42 students
@@ -45,17 +61,3 @@ AI tools were used to help:
 - Design the banner for this README.
 
 No AI was used to write the functions directly; all code logic and implementation are my own work and personal vision.
-
-## Library Functions Overview
-
-### Basic Functions (Character and Memory)
-- ft_isalpha, ft_isdigit, ft_isalnum, ft_isascii, ft_isprint, ft_strlen, ft_memset, ft_bzero, ft_memcpy, ft_memmove, ft_strlcpy, ft_strlcat, ft_toupper, ft_tolower, ft_strchr, ft_strrchr, ft_strncmp, ft_memchr, ft_memcmp, ft_strnstr, ft_atoi
-
-### Memory Management
-- ft_calloc, ft_strdup
-
-### String Manipulation
-- ft_substr, ft_strjoin, ft_strtrim, ft_split, ft_itoa, ft_strmapi, ft_striteri
-
-### Linked List (Bonus)
-- ft_lstnew, ft_lstadd_front, ft_lstsize, ft_lstlast, ft_lstadd_back, ft_lstdelone, ft_lstclear, ft_lstiter, ft_lstmap
