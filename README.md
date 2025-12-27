@@ -27,8 +27,8 @@ To build it, simply run the following command in your terminal: `make`.
 
 - **Peer-to-peer learning** – was the most valuable resource; this project was developed with guidance and collaboration from other 42 students;
 - **man pages** – Used extensively to check function behavior, parameters, and return values. (The man from bash!);
-- **Tutorials and articles** – Consulted to better understand specific C concepts and function implementations;
 - **Books** – Classic references to learn C from scratch and understand various programming notions.
+- **Tutorials and articles** – Consulted to better understand specific C concepts and function implementations;
 
 ### AI Assistance
 
