@@ -25,16 +25,17 @@ To build it, simply run the following command in your terminal: `make`.
 
 ## Resources
 
-- **Peer-to-peer learning** – was the most valuable resource; this project was developed with guidance and collaboration from other 42 students;
-- **man pages** – Used extensively to check function behavior, parameters, and return values. (The man from bash!);
-- **Books** – Classic references to learn C from scratch and understand various programming notions.
-- **Tutorials and articles** – Consulted to better understand specific C concepts and function implementations;
+- **Peer-to-peer learning** – was the most valuable resource; this project was developed with guidance and collaboration from other 42 students
+- **man pages** – Used extensively to check function behavior, parameters, and return values. (The man from bash!)
+- **Books** – Classic references to learn C from scratch and understand various programming notions
+- **Tutorials and articles** – Consulted to better understand specific C concepts and function implementations.
 
 ### AI Assistance
 
 AI tools were used to help:
-- Create diagrams and schemas to visualize how functions work and how data flows.
-- Provide examples of how to apply these concepts in practice.
+- Create diagrams and schemas to visualize how functions work and how data flows
+- Provide examples of how to apply these concepts in practice
+- Design the banner for this README.
 
 No AI was used to write the functions directly; all code logic and implementation are my own work and personal vision.
 
