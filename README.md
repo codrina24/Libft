@@ -20,9 +20,16 @@ The project covers:
 
 ## Instructions
 
-This project includes a Makefile to compile the `Libft` library.
-To build it, simply run the following command in your terminal: `make`.
-
+### Compilation
+The project includes a `Makefile` with the following targets:  
+- `all` : Compiles the library.  
+- `clean` : Removes object files.  
+- `fclean` : Removes object files and the library.  
+- `re` : Recompiles the library from scratch.
+To compile the library, run:
+```bash
+make
+```
 ## Resources
 
 - **Peer-to-peer learning** – was the most valuable resource; this project was developed with guidance and collaboration from other 42 students
