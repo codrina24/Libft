@@ -55,6 +55,5 @@ make
 AI tools were used to help:
 - Create diagrams and schemas to visualize how functions work and how data flows
 - Provide examples of how to apply these concepts in practice
-- Design the banner for this README.
 
 No AI was used to write the functions directly; all code logic and implementation are my own work and personal vision.
